@@ -20,4 +20,21 @@
     </tr>
 </table>
 
+<h2 align="left">Образование:</h2>
+<p align="left"> Основные свои знания я получила из этих книг:</p>
+<ul>
+    <li>"Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5" Никсон Робин</li>
+    <li>"JavaScript. Полное руководство" Дэвид Флэнаган</li>
+</ul>
+<p align="left">Также я проходила данные курсы:</p>
+<ul>
+    <li>Stepik: "Frontend разработчик на HTML, CSS и JavaScript"</li>
+    <li>Stepik: "Тесты и задачи по HTML, CSS и JavaScript"</li>
+    <li>Stepik: "Тренажер по вёрстке, плагин Emmet"</li>
+    <li>Code Basics: "TypeScript"</li>
+</ul>
+<p align="left">В данный момент учусь на втором курсе московского технического университета связи и информатики</p>
+
+
+
 :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-timontima-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/timontima) [![Gmail Badge](https://img.shields.io/badge/-deviastery@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:deviastery@gmail.com)
