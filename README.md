@@ -8,7 +8,7 @@
     <li>"Создаем динамические веб-сайты с помощью PHP, MySQL, JavaScript, CSS и HTML5" Никсон Робин</li>
     <li>"JavaScript. Полное руководство" Дэвид Флэнаган</li>
 </ul>
-<p align="left">Также я проходила данные курсы:</p>
+<p align="left">Также я проходила эти курсы:</p>
 <ul>
     <li>Stepik: "Frontend разработчик на HTML, CSS и JavaScript"</li>
     <li>Stepik: "Тесты и задачи по HTML, CSS и JavaScript"</li>
