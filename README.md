@@ -22,7 +22,7 @@
 
 ## Мои проекты:
 
-* [prey_API](https://github.com/deviastery/prey_API) - проект, посвященный игре Prey на express, содержит в себе сервер реализующий GET-запросы по получению информации из базы данных Mongodb.
+* [prey_API](https://github.com/deviastery/prey_API) - проект, посвященный игре Prey на express, содержит в себе сервер, реализующий GET-запросы по получению информации из базы данных Mongodb.
 * [prey_API_client](https://deviastery.github.io/prey_API_client/) - сайт-клиент в дополнение к prey_API на react, содержит в себе функционал ввода запроса пользователем, вывода ответа сервера и документацию.
 * [react_star_wars](https://deviastery.github.io/react_star_wars/) - сайт на react, который отправляет GET-запросы к SWAPI, содержит в себе функционал вывода карточек персонажей Star Wars и информации о каждом персонаже, функционал поиска по имени и добавления персонажа в избранное.
 * [mini_mongobd_API](https://github.com/deviastery/mini_mongobd_API) - небольшое приложение на express, которое реализует CRUD-операции, содержит в себе функционал вывода базы данных Mongodb.
