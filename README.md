@@ -4,7 +4,7 @@
 
 ## О себе:
 
-:computer: Работаю fullstack-разработчиком. Интересуюсь Computer science.  
+:computer: Живу разработкой :3 <br>Работаю fullstack-разработчиком. Интересуюсь Computer science.
 
 ## Образование:
 
