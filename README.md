@@ -6,12 +6,6 @@
 
 :computer: Живу разработкой :3 <br>Работаю fullstack-разработчиком на .NET и пишу нейросети. В свободное время занимаюсь системным программированием и изучаю Computer science.
 
-## Мои проекты:
-
-* [rep_searcher](https://deviastery.github.io/rep_searcher/) - проект на react и ts, производит поиск по репозиториям на Github с помощью GitHub REST API и RTK Query.
-* [prey_API](https://github.com/deviastery/prey_API) - проект, посвященный игре Prey на express, содержит в себе сервер, реализующий GET-запросы по получению информации из базы данных Mongodb.
-* [prey_API_client](https://deviastery.github.io/prey_API_client/) - сайт-клиент в дополнение к prey_API на react, содержит в себе функционал ввода запроса пользователем, вывода ответа сервера и документацию.
-
 ## Языки и инструменты:
 <table>
     <tr>
